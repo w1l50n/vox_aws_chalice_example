@@ -1,0 +1,7 @@
+.chalice/*
+!.chalice/config.json
+.chalice/deployments/
+.chalice/venv/
+__pycache__*
+.DS_Store
+.idea*
